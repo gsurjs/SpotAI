@@ -1,6 +1,6 @@
 # Spot: Cognitive Companion
 
-![alt text](https://ibb.co/FLBfXgCr)
+![Spot AI](https://ibb.co/FLBfXgCr)
 
 Spot: Cognitive Companion is an AI-powered robotic assistant designed to enhance human-robot interactions by integrating dynamic AI capabilities, user recognition, and environmental awareness. This project leverages facial recognition, large language models, and vision language models to create a more interactive and intelligent robotic assistant.
 
