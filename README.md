@@ -1,6 +1,6 @@
 # Spot: Cognitive Companion
 
-![Spot Cognitive Companion](https://raw.githubusercontent.com/gsurjs/SpotAI/main/spot_header.jpg)
+![Spot Cognitive Companion](https://raw.githubusercontent.com/gsurjs/SpotAI/main/images/spot_header.jpg)
 
 Spot: Cognitive Companion is an AI-powered robotic assistant designed to enhance human-robot interactions by integrating dynamic AI capabilities, user recognition, and environmental awareness. This project leverages facial recognition, large language models, and vision language models to create a more interactive and intelligent robotic assistant.
 
@@ -12,6 +12,10 @@ Spot: Cognitive Companion is an AI-powered robotic assistant designed to enhance
 - **Speech-to-Text**: Uses `faster-whisper` for real-time speech recognition.
 - **Text-to-Speech**: Offline FREE speech synthesis using `pyttsx3`. Paid speach method option included in which OpenAI API key will be required/tokens loaded to your account.
 - **Object Detection**: Features such as identifying objects and surroundings
+
+![face detection](https://raw.githubusercontent.com/gsurjs/SpotAI/main/images/face_detection.png)
+
+![LLM VLM Response](https://raw.githubusercontent.com/gsurjs/SpotAI/main/images/LLM_VLM_response.png)
 
 ## Installation
 
