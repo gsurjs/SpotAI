@@ -14,23 +14,6 @@ Spot: Cognitive Companion is an AI-powered robotic assistant designed to enhance
 - **Object Detection**: Features such as identifying objects and surroundings
 
 ## Installation
-# Spot: Cognitive Companion
-
-Spot: Cognitive Companion is an AI-powered robotic assistant designed to enhance human-robot interactions by integrating dynamic AI capabilities, user recognition, and environmental awareness. This project leverages facial recognition, large language models, and vision language models to create a more interactive and intelligent robotic assistant.
-
-## Features
-- **Facial Recognition**: Detects and remembers user identities dynamically.
-- **Human-Robot Interaction**: Uses AI to improve engagement with users.
-- **Large Language Model (LLM) & Vision Language Model (VLM)**:
-  - Supports OpenAI, Google Gemini, and Groq Llama3 for natural language interactions.
-  - Processes real-world visual surroundings for contextual responses.
-- **Speech-to-Text**: Uses `faster-whisper` for real-time speech recognition.
-- **Text-to-Speech**: Offline speech synthesis using `pyttsx3`.
-- **Object Detection**: Features such as user tracking, fetch, and follow.
-- **Secure Local Database**: Stores interactions securely for personalized experiences.
-- **Boston Dynamics SDK Integration**: Incorporating Spot’s SDK to enhance its autonomy.
-
-## Installation
 
 ### API Key Setup
 To use this project, you must obtain API keys for Groq, OpenAI (for paid tts method, in which you can enable by exchanging the speach methods. Pyttsx3 speach method will always be free with pyttsx3 library installed), and Google Gemini:
