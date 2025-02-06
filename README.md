@@ -33,7 +33,8 @@ Ensure you have Python installed (>=3.8).
 ### Steps
 1. Clone this repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/SpotAI.git
+   git clone https://github.com/gsurjs/SpotAI.git
+
    cd SpotAI
    ```
 2. Install dependencies:
